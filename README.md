@@ -22,7 +22,7 @@ Welcome to my personal portfolio website! This website serves as a digital showc
 
 ## 🚀 **Getting Started**  
 
-
+Follow these steps to set up and explore the portfolio:  
 
 ### 🔹 **Clone the Repository**  
 ```bash
