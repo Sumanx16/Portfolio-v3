@@ -1,4 +1,3 @@
-# 🚀 **Personal Portfolio Website** 🌐💼  
 
 Welcome to my personal portfolio website! This website serves as a digital showcase of my **skills, projects, and contact information**, providing insights into my journey as a developer.  
 
